@@ -15,5 +15,4 @@ int add(int, int);
 void print_to_98(int);
 void print_time_table(int);
 void print_times_table(int n);
-int main(void)
 #endif
