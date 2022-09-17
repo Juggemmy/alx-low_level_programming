@@ -1,7 +1,10 @@
 #ifndef MAIN_H
 #define MAIN_H
+
 /*
  * File: main.h
+ * Desc: header file containing prototypes for all functions
+ * 	 used in the 0x04-more_function_nested_loops directory.
  */
 int _putchar(char c);
 int _isupper(int c);
