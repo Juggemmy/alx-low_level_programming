@@ -27,7 +27,7 @@ int check_palindrome(char *s)
 	if (*s == s[1])
 	{
 		s++;
-		1--
+		l--;
 	}
 	else
 	{
