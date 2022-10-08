@@ -12,7 +12,7 @@ void add_nums(char *final_prod, char *next_prod, int next_len);
  * find_len - Finds the length of a string.
  * @str: The string to be measured.
  *
- * Return: The length ofthe string.
+ * Return: The length of the string.
  */
 int find_len(char *str)
 {
@@ -181,7 +181,7 @@ void add_nums(char *final_prod, char *next_prod, int next_len)
 
 /**
  * main - Multiplies two positive numbers.
- * @argv: Thenumber of arguments passed to the program.
+ * @argv: The number of arguments passed to the program.
  * @argc: An array of pointers to the arguments.
  *
  * Description: If the number of arguments is incorrect or one number
